@@ -1,0 +1,7 @@
+train: /home/anyona/Documents/Z_PROJECT/code_005/code_001/data_set/data/train
+
+val: /home/anyona/Documents/Z_PROJECT/code_005/code_001/data_set/data/val
+
+nc: 1 # number of classes which is 1 for the number_plate
+names: 
+    0: number_plate 
